@@ -7,7 +7,7 @@ Overview
 ATLANTE is a Python-based analysis pipeline designed to identify brain regions with statistically significant enrichment of highly expressed genes from user-defined gene lists. The tool uses Monte Carlo simulation to compare observed gene expression patterns against reference distributions, enabling researchers to map genetic findings onto discrete neuroanatomical targets.
 
 
-Key Features
+**Key Features**
 
 - Monte Carlo simulation (default: 1,000,000 iterations) with Bonferroni correction
 - Comprehensive coverage: Analyzes 193 discrete human brain regions
@@ -16,33 +16,28 @@ Key Features
 - Works with any user-defined gene list
   
 
-Installation
+**Installation**
 
 Requirements
 
 Python 3.8+
 
 
-Dependencies
+**Dependencies**
 
 pip install pandas numpy scipy matplotlib plotly networkx
 
 Specific versions used in development
 
-pandas 2.2.2
-
-numpy 2.3.4
-
-scipy 1.13.1
-
-matplotlib 3.9.2
-
-plotly 6.3.1
-
-networkx 3.5
+- pandas 2.2.2
+- numpy 2.3.4
+- scipy 1.13.1
+- matplotlib 3.9.2
+- plotly 6.3.1
+- networkx 3.5
 
 
-Data Dependencies
+**Data Dependencies**
 
 Required Data File:
 
@@ -63,7 +58,7 @@ Source=Download from Human Protein Atlas (www.proteinatlas.org)
 Note - Due to size and licensing, this file is not included in the repository. Users must download it independently.
 
 
-Citation
+**Citation**
 
 If you use ATLANTE in your research, please cite:
 
