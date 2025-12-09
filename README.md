@@ -10,13 +10,9 @@ ATLANTE is a Python-based analysis pipeline designed to identify brain regions w
 Key Features
 
 - Monte Carlo simulation (default: 1,000,000 iterations) with Bonferroni correction
-- 
 - Comprehensive coverage: Analyzes 193 discrete human brain regions
-- 
 - Utilizes ~20,162 genes from the Human Protein Atlas
-- 
 - Successfully applied to Major Depression and Autism Spectrum Disorder gene sets
-- 
 - Works with any user-defined gene list
   
 
