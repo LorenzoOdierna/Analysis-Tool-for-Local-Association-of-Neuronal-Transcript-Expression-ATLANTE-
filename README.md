@@ -2,19 +2,6 @@
 ATLANTE identifies which brain regions show unusually high expression for a custome list of genes of interest (human). Uses Monte Carlo simulation to compare your gene list against 193 human brain regions from the Human Protein Atlas.
 
 
-**Overview**
-
-ATLANTE is a Python-based analysis pipeline designed to identify brain regions with statistically significant enrichment of highly expressed genes from user-defined gene lists. The tool uses Monte Carlo simulation to compare observed gene expression patterns against reference distributions, enabling researchers to map genetic findings onto discrete neuroanatomical targets.
-
-
-**Key Features**
-
-- Monte Carlo simulation (default: 1,000,000 iterations) with Bonferroni correction
-- Comprehensive coverage: Analyzes 193 discrete human brain regions
-- Utilizes ~20,162 genes from the Human Protein Atlas
-- Works with any user-defined gene list
-  
-
 **Installation**
 
 Requirements
