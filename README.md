@@ -1,5 +1,5 @@
 # Analysis-Tool-for-Local-Association-of-Neuronal-Transcript-Expression-ATLANTE-
-ATLANTE identifies which brain regions show unusually high expression for a custome list of genes of interest (human). Uses Monte Carlo simulation to compare your gene list against 193 human brain regions from the Human Protein Atlas.
+ATLANTE identifies which brain regions show unusually high expression for a custom list of genes of interest (human). Uses Monte Carlo simulation to compare your gene list against 193 human brain regions from the Human Protein Atlas.
 
 
 **Installation**
