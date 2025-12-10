@@ -18,12 +18,4 @@ Source=Download from Human Protein Atlas (www.proteinatlas.org)
 
 This file contains RNA transcript counts for 193 brain regions from the Human Protein Atlas (version 24.0 or later).
 
-Format: 
-
-Rows=Individual genes (20,162+ entries)
-
-Columns=Brain regions (193 regions)
-
-Values=Normalized transcript expression levels
-
 Note - Due to size and licensing, this file is not included in the repository. Users must download it independently.
