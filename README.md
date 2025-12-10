@@ -33,12 +33,3 @@ Columns=Brain regions (193 regions)
 Values=Normalized transcript expression levels
 
 Note - Due to size and licensing, this file is not included in the repository. Users must download it independently.
-
-
-**Citation**
-
-If you use ATLANTE in your research, please cite:
-
-Odierna, G.L., Sharpley, C.F., Bitsika, V., Evans, I.D., & Vessey, K.A. (2025). 
-Novel Gene-Informed Regional Brain Targets for Clinical Screening for Major Depression. 
-Neurology International, 17(6). doi:10.3390/neurolint17060096
