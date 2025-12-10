@@ -9,12 +9,6 @@ Requirements
 Python 3.8+
 
 
-**Dependencies**
-
-pandas numpy  
-
-
-
 **Data Dependencies**
 
 Required Data File:
